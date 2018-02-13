@@ -7,4 +7,7 @@ There is some useful code that I copied to make working with npm easier. Expandi
 ## how to install
 
 git clone this url: https://github.com/aman233/dotfiles.git
+And clone this url: https://github.com/piuccio/cowsay
+
+The first one has my files and the second one has cowsay which is featured in my .bash_profile .
 
