@@ -4,7 +4,7 @@ Absolute noob when it comes to coding. My .bash_profile uses some prompts on sta
 There is some useful code that I copied to make working with npm easier. Expanding the download limit and file extraction should make it faster to get a download done.
 
 
-##how to install
+## how to install
 
 git clone this url: https://github.com/aman233/dotfiles.git
 
